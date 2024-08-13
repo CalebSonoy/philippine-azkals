@@ -58,4 +58,4 @@ azkals_results = {"competition": competitions,
                 "away_team": away_teams,
                 "location":locations,
                 }
-pd.DataFrame(azkals_results).to_csv("ph_national_team_results.csv", index=False)
+pd.DataFrame(azkals_results).to_csv("ph_national_football_team_results.csv", index=False)

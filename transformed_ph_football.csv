@@ -1,0 +1,404 @@
+date,opponent,ph_goal,opp_goal,ph_goal_diff,ph_pen_goal,opp_pen_goal,ph_match_status,competition,competition_stage,sporting_event,location_city,location_country
+1915-05-21,South China A.A.,1,3,-2,0,0,loss,unofficial friendly,,unofficial friendly,Shanghai,China
+1968-01-06,Dallas Tornado,2,1,1,0,0,win,friendly,,friendly,Manila,Philippines
+1972-02-12,Cruzeiro,0,6,-6,0,0,loss,friendly,,friendly,Manila,Philippines
+1972-06-06,South Korea B,1,1,0,0,0,draw,1972 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1972-07-23,Burma B,1,1,0,0,0,draw,1972 merdeka tournament,,merdeka tournament,Ipoh,Malaysia
+1975-12-12,Sabah FA,2,3,-1,0,0,loss,friendly,,friendly,Manila,Philippines
+1981-08-16,Universidad de Guadalajara,0,12,-12,0,0,loss,1981 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1981-08-18,Malaysia B,2,0,2,0,0,win,1981 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1986-08-06,Guangdong,0,2,-2,0,0,loss,1986 president aquino cup,,president aquino cup,Manila,Philippines
+1986-08-08,Russian SFSR,0,5,-5,0,0,loss,1986 president aquino cup,,president aquino cup,Manila,Philippines
+1986-08-10,South China,1,5,-4,0,0,loss,1986 president aquino cup,,president aquino cup,Manila,Philippines
+1991-05-07,Malay Mail,0,1,-1,0,0,loss,1991 philippines international cup,,philippines international cup,Bacolod,Philippines
+1991-05-09,Taipei Bank,0,0,0,0,0,draw,1991 philippines international cup,,philippines international cup,Bacolod,Philippines
+1993-05-12,Malay Mail,1,0,1,0,0,win,1993 philippines international cup,,philippines international cup,Bacolod,Philippines
+1993-05-13,Taipei Bank,1,1,0,0,0,draw,1993 philippines international cup,,philippines international cup,Bacolod,Philippines
+1993-05-14,Shanghai,1,2,-1,0,0,loss,1993 philippines international cup,,philippines international cup,Bacolod,Philippines
+1997-02-15,Malay Mail,1,1,0,0,0,draw,1997 president's cup,,president's cup,Iloilo City,Philippines
+1997-02-19,Woodlands Wellington,2,0,2,0,0,win,1997 president's cup,,president's cup,Iloilo City,Philippines
+1997-02-21,Royal Thai Air Force,0,2,-2,0,0,loss,1997 president's cup ,semi-final,president's cup,Iloilo City,Philippines
+1998-03-07,Tatung,0,1,-1,0,0,loss,1998 president's centennial cup,,president's centennial cup,Iloilo City,Philippines
+1998-03-09,Malay Mail,2,1,1,0,0,win,1998 president's centennial cup,,president's centennial cup,Iloilo City,Philippines
+1998-03-11,Woodlands Wellington,2,1,1,0,0,win,1998 president's centennial cup,,president's centennial cup,Iloilo City,Philippines
+1998-03-14,Hong Kong Rangers,0,4,-4,0,0,loss,1998 president's centennial cup ,semi-final,president's centennial cup,Bacolod,Philippines
+1998-03-15,Sembawang Rangers,1,3,-2,0,0,loss,1998 president's centennial cup ,3rd place play-off,president's centennial cup,Bacolod,Philippines
+2006-04-03,India U-20,1,1,0,0,0,draw,2006 afc challenge cup ,group stage,afc challenge cup,Chittagong,Bangladesh
+2008-10-11,Rattana Bundit,2,1,1,0,0,win,friendly,,friendly,Bangkok,Thailand
+2008-10-13,Bangkok Glass,1,2,-1,0,0,loss,friendly,,friendly,Bangkok,Thailand
+2010-01-17,Taipei PE College,1,2,-1,0,0,loss,friendly,,friendly,Kaohsiung,Taiwan
+2010-10-03,Chinese Taipei U-23,0,1,-1,0,0,loss,friendly,,friendly,Tainan,Taiwan
+2010-10-09,Hong Kong U-23,2,4,-2,0,0,loss,2010 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2010-11-27,Nakhon Pathom,0,8,-8,0,0,loss,friendly,,friendly,Nakhon Pathom,Thailand
+2011-03-09,Kanto Gakuin University,0,4,-4,0,0,loss,friendly,,friendly,Gotemba,Japan
+2011-03-11,Kanto Gakuin University,1,8,-7,0,0,loss,friendly,,friendly,Gotemba,Japan
+2011-06-05,UFL All Stars,3,4,-1,0,0,loss,friendly,,friendly,Makati,Philippines
+2011-06-15,Aachen-Düren XI,4,1,3,0,0,win,friendly,,friendly,Düren,Germany
+2011-06-17,Bonner U-19,4,1,3,0,0,win,friendly,,friendly,Alfter,Germany
+2011-06-22,Ingolstadt 04,0,4,-4,0,0,loss,friendly,,friendly,Ingolstadt,Germany
+2011-06-24,Darmstadt 98,0,5,-5,0,0,loss,friendly,,friendly,Darmstadt,Germany
+2011-07-16,Bahrain U23,1,2,-1,0,0,loss,friendly,,friendly,Riffa,Bahrain
+2011-07-18,Bahrain U23,1,3,-2,0,0,loss,friendly,,friendly,Arad,Bahrain
+2011-12-03,LA Galaxy,1,6,-5,0,0,loss,friendly,,friendly,Manila,Philippines
+2012-01-07,Inter de Madrid,1,3,-2,0,0,loss,friendly,,friendly,Manila,Philippines
+2012-01-21,Icheon Citizen FC,1,1,0,2,4,loss,friendly,,friendly,Manila,Philippines
+2012-02-11,Uzbekistan U-23,0,3,-3,0,0,loss,friendly,,friendly,Dubai,United Arab Emirates
+2012-02-13,Al Ahli SC,3,1,2,0,0,win,friendly,,friendly,Doha,Qatar
+2012-02-16,Australia U-23,0,1,-1,0,0,loss,friendly,,friendly,Dubai,United Arab Emirates
+2012-08-11,Chicago Inferno,1,3,-2,0,0,loss,friendly,,friendly,Wheaton,United States
+2012-09-05,Cambodia,0,0,0,0,0,draw,friendly,,friendly,Phnom Penh,Cambodia
+2012-09-10,Laos,1,2,-1,0,0,loss,friendly,,friendly,Vientiane,Laos
+2014-04-14,Al Ahli SC,1,1,0,0,0,draw,friendly,,friendly,Doha,Qatar
+2014-05-10,Al-Muharraq SC,1,2,-1,0,0,loss,friendly,,friendly,Riffa,Bahrain
+2014-08-27,Global,3,1,2,0,0,win,friendly,,friendly,Manila,Philippines
+2016-07-26,Perth Glory FC,0,2,-2,0,0,loss,friendly,,friendly,Bantay,Philippines
+2018-11-06,Mongolia,3,1,2,0,0,win,unofficial friendly,,unofficial friendly,Imus,Philippines
+2018-12-31,Vietnam,2,4,-2,0,0,loss,unofficial friendly,,unofficial friendly,Doha,Qatar
+2019-06-09,Guangzhou Evergrande (RT),0,0,0,0,0,draw,unofficial friendly,,unofficial friendly,Guangzhou,China
+2019-10-10,Chainat Hornbill,3,1,2,0,0,win,unofficial friendly,,unofficial friendly,Bacolod,Philippines
+2023-10-15,Kyrgyzstan,1,0,1,0,0,win,unofficial friendly,,unofficial friendly,Manama,Bahrain
+1913-02-04,China,2,1,1,0,0,win,1913 far eastern championship games,,far eastern championship games,Manila,Philippines
+1915-05-17,China,0,1,-1,0,0,loss,1915 far eastern championship games,,far eastern championship games,Shanghai,China
+1915-05-18,China,0,0,0,0,0,draw,1915 far eastern championship games,,far eastern championship games,Shanghai,China
+1915-05-20,China,1,1,0,0,0,draw,1915 far eastern championship games,,far eastern championship games,Shanghai,China
+1917-05-10,Japan,15,2,13,0,0,win,1917 far eastern championship games,,far eastern championship games,Tokyo,Japan
+1917-05-11,China,0,3,-3,0,0,loss,1917 far eastern championship games,,far eastern championship games,Tokyo,Japan
+1919-05-12,China,0,2,-2,0,0,loss,1919 far eastern championship games,,far eastern championship games,Manila,Philippines
+1919-05-13,China,2,1,1,0,0,win,1919 far eastern championship games,,far eastern championship games,Manila,Philippines
+1919-05-15,China,1,2,-1,0,0,loss,1919 far eastern championship games,,far eastern championship games,Manila,Philippines
+1921-05-30,Japan,3,1,2,0,0,win,1921 far eastern championship games,,far eastern championship games,Shanghai,China
+1921-06-02,China,0,1,-1,0,0,loss,1921 far eastern championship games,,far eastern championship games,Shanghai,China
+1923-05-22,China,0,3,-3,0,0,loss,1923 far eastern championship games,,far eastern championship games,Osaka,Japan
+1923-05-23,Japan,2,1,1,0,0,win,1923 far eastern championship games,,far eastern championship games,Osaka,Japan
+1925-05-18,Japan,4,0,4,0,0,win,1925 far eastern championship games,,far eastern championship games,Manila,Philippines
+1925-05-20,China,1,5,-4,0,0,loss,1925 far eastern championship games,,far eastern championship games,Manila,Philippines
+1927-08-29,Japan,1,2,-1,0,0,loss,1927 far eastern championship games,,far eastern championship games,Shanghai,China
+1927-08-31,China,1,3,-2,0,0,loss,1927 far eastern championship games,,far eastern championship games,Shanghai,China
+1930-05-25,Japan,2,7,-5,0,0,loss,1930 far eastern championship games,,far eastern championship games,Tokyo,Japan
+1930-05-27,China,0,5,-5,0,0,loss,1930 far eastern championship games,,far eastern championship games,Tokyo,Japan
+1934-05-12,China,0,2,-2,0,0,loss,1934 far eastern championship games,,far eastern championship games,Manila,Philippines
+1934-05-15,Japan,3,4,-1,0,0,loss,1934 far eastern championship games,,far eastern championship games,Manila,Philippines
+1934-05-19,Dutch East Indies,3,2,1,0,0,win,1934 far eastern championship games,,far eastern championship games,Manila,Philippines
+1940-06-08,Chinese Taipei,1,2,-1,0,0,loss,1940 east asian games,,east asian games,Tokyo,Japan
+1940-06-12,Manchukuo,1,1,0,0,0,draw,1940 east asian games,,east asian games,,Japan
+1940-06-16,Japan,0,1,-1,0,0,loss,1940 east asian games,,east asian games,Nishinomiya,Japan
+1977-11-20,Brunei,4,1,3,0,0,win,1977 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1977-11-21,Malaysia,0,5,-5,0,0,loss,1977 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1977-11-23,Indonesia,1,1,0,0,0,draw,1977 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1976-03-14,Japan,0,3,-3,0,0,loss,1976 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1976-03-17,Japan,0,3,-3,0,0,loss,1976 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1976-04-08,Chinese Taipei,1,0,1,0,0,win,aloha soccer festival,,aloha soccer festival,Honolulu,United States
+1974-09-03,Japan,0,4,-4,0,0,loss,1974 asian games,,asian games,Tehran,Iran
+1974-09-06,Israel,0,6,-6,0,0,loss,1974 asian games,,asian games,Tehran,Iran
+1974-09-07,Malaysia,0,11,-11,0,0,loss,1974 asian games,,asian games,Tehran,Iran
+1972-06-08,Singapore,2,0,2,0,0,win,1972 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1972-06-12,Thailand,1,0,1,0,0,win,1972 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1972-06-14,Khmer Republic,0,4,-4,0,0,loss,1972 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1972-07-14,Malaysia,0,1,-1,0,0,loss,1972 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1972-07-16,Khmer Republic,2,2,0,0,0,draw,1972 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1972-07-18,Japan,1,5,-4,0,0,loss,1972 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1972-07-20,Sri Lanka,4,1,3,0,0,win,1972 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1972-08-02,Indonesia,0,3,-3,0,0,loss,1972 pesta sukan cup,,pesta sukan cup,Kallang,Singapore
+1972-08-03,Japan,1,4,-3,0,0,loss,1972 pesta sukan cup,,pesta sukan cup,,Singapore
+1972-08-05,Khmer Republic,0,0,0,0,0,draw,1972 pesta sukan cup,,pesta sukan cup,,Singapore
+1972-09-21,Burma,0,4,-4,0,0,loss,1972 president's cup football tournament,,president's cup football tournament,Seoul,South Korea
+1972-09-23,Singapore,0,5,-5,0,0,loss,1972 president's cup football tournament,,president's cup football tournament,Seoul,South Korea
+1972-09-23,Indonesia,0,11,-11,0,0,loss,1972 president's cup football tournament,,president's cup football tournament,,South Korea
+1972-10-29,Australia,0,6,-6,0,0,loss,friendly,,friendly,Manila,Philippines
+1971-08-09,Hong Kong,1,2,-1,0,0,loss,1971 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1971-08-11,Indonesia,1,3,-2,0,0,loss,1971 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1971-08-14,Burma,0,2,-2,0,0,loss,1971 merdeka tournament,,merdeka tournament,Kuala Terengganu,Malaysia
+1971-08-15,Singapore,4,4,0,0,0,draw,1971 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1971-08-16,India,1,5,-4,0,0,loss,1971 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1971-08-17,Thailand,3,1,2,0,0,win,1971 merdeka tournament,,merdeka tournament,Kuala Lumpur,Malaysia
+1971-08-24,Thailand,0,1,-1,0,0,loss,1971 pesta sukan cup,,pesta sukan cup,Kallang,Singapore
+1971-08-27,South Korea,1,3,-2,0,0,loss,1971 pesta sukan cup,,pesta sukan cup,Kallang,Singapore
+1971-09-25,Chinese Taipei,3,0,3,0,0,win,summer olympics qualification,,summer olympics qualification,Seoul,South Korea
+1971-09-27,Japan,1,8,-7,0,0,loss,summer olympics qualification,,summer olympics qualification,Seoul,South Korea
+1971-09-29,South Korea,0,6,-6,0,0,loss,summer olympics qualification,,summer olympics qualification,Seoul,South Korea
+1971-10-02,Malaysia,0,5,-5,0,0,loss,summer olympics qualification,,summer olympics qualification,Seoul,South Korea
+1967-09-27,Japan,0,15,-15,0,0,loss,1968 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1967-09-28,Lebanon,1,11,-10,0,0,loss,1968 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1967-10-03,Chinese Taipei,2,7,-5,0,0,loss,1968 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1967-10-07,South Vietnam,0,10,-10,0,0,loss,1968 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1967-10-10,South Korea,0,5,-5,0,0,loss,1968 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1959-03-29,Hong Kong,0,7,-7,0,0,loss,1960 afc asian cup qualification,,afc asian cup qualification,Manila,Philippines
+1959-03-31,Chinese Taipei,4,7,-3,0,0,loss,1960 afc asian cup qualification,,afc asian cup qualification,Manila,Philippines
+1958-05-25,Hong Kong,1,4,-3,0,0,loss,1958 asian games,,asian games,Tokyo,Japan
+1958-05-26,Japan,1,0,1,0,0,win,1958 asian games,,asian games,Tokyo,Japan
+1958-05-30,Indonesia,2,5,-3,0,0,loss,1958 asian games,,asian games,Tokyo,Japan
+1956-02-25,South Korea,0,2,-2,0,0,loss,1956 afc asian cup qualification,,afc asian cup qualification,Manila,Philippines
+1956-04-21,South Korea,0,3,-3,0,0,loss,1956 afc asian cup qualification,,afc asian cup qualification,Seoul,South Korea
+1954-05-03,South Vietnam,2,3,-1,0,0,loss,1954 asian games,,asian games,Manila,Philippines
+1954-05-06,Chinese Taipei,0,4,-4,0,0,loss,1954 asian games,,asian games,Manila,Philippines
+1953-01-31,Singapore,0,4,-4,0,0,loss,unofficial friendly,,unofficial friendly,Manila,Philippines
+1953-06-20,Singapore,1,3,-2,0,0,loss,unofficial friendly,,unofficial friendly,,Singapore
+1950-02-19,Hong Kong,1,6,-5,0,0,loss,unofficial friendly,,unofficial friendly,,British Hong Kong
+1948-02-21,Hong Kong,1,4,-3,0,0,loss,unofficial friendly,,unofficial friendly,,British Hong Kong
+1980-03-22,Indonesia,0,4,-4,0,0,loss,1980 summer olympics qualification,,summer olympics qualification,Kuala Lumpur,Malaysia
+1980-03-24,Japan,0,10,-10,0,0,loss,1980 summer olympics qualification,,summer olympics qualification,Kuala Lumpur,Malaysia
+1980-03-25,Brunei,0,2,-2,0,0,loss,1980 summer olympics qualification,,summer olympics qualification,Kuala Lumpur,Malaysia
+1980-03-27,South Korea,0,8,-8,0,0,loss,1980 summer olympics qualification,,summer olympics qualification,Kuala Lumpur,Malaysia
+1980-04-03,Malaysia,0,8,-8,0,0,loss,1980 summer olympics qualification,,summer olympics qualification,Kuala Lumpur,Malaysia
+1981-08-14,Indonesia,0,3,-3,0,0,loss,1981 jakarta anniversary tournament,,jakarta anniversary tournament,Jakarta,Indonesia
+1981-12-09,Singapore,0,4,-4,0,0,loss,1981 southeast asian games ,group stage,southeast asian games,Manila,Philippines
+1981-12-11,Indonesia,0,2,-2,0,0,loss,1981 southeast asian games ,group stage,southeast asian games,Manila,Philippines
+1983-05-30,Malaysia,0,0,0,0,0,draw,1983 southeast asian games ,group stage,southeast asian games,,Singapore
+1983-06-01,Singapore,0,5,-5,0,0,loss,1983 southeast asian games ,group stage,southeast asian games,,Singapore
+1983-09-04,Japan,0,7,-7,0,0,loss,1984 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1983-09-07,Japan,1,10,-9,0,0,loss,1984 summer olympics qualification,,summer olympics qualification,Tokyo,Japan
+1984-08-07,Syria,0,2,-2,0,0,loss,1984 afc asian cup qualification,,afc asian cup qualification,Jakarta,Indonesia
+1984-08-09,Thailand,0,3,-3,0,0,loss,1984 afc asian cup qualification,,afc asian cup qualification,Jakarta,Indonesia
+1984-08-11,Indonesia,0,1,-1,0,0,loss,1984 afc asian cup qualification,,afc asian cup qualification,Solo,Indonesia
+1984-08-13,Bangladesh,2,3,-1,0,0,loss,1984 afc asian cup qualification,,afc asian cup qualification,Solo,Indonesia
+1984-08-15,Iran,1,7,-6,0,0,loss,1984 afc asian cup qualification,,afc asian cup qualification,Jakarta,Indonesia
+1985-12-10,Malaysia,0,6,-6,0,0,loss,1985 southeast asian games ,group stage,southeast asian games,Bangkok,Thailand
+1985-12-12,Thailand,0,7,-7,0,0,loss,1985 southeast asian games ,group stage,southeast asian games,Bangkok,Thailand
+1987-04-03,Hong Kong,0,5,-5,0,0,loss,1988 summer olympics qualification,,summer olympics qualification,,Hong Kong
+1987-04-10,China,0,9,-9,0,0,loss,1988 summer olympics qualification,,summer olympics qualification,Guangzhou,China
+1987-04-13,China,0,10,-10,0,0,loss,1988 summer olympics qualification,,summer olympics qualification,Guangzhou,China
+1987-05-14,Hong Kong,0,7,-7,0,0,loss,1988 summer olympics qualification,,summer olympics qualification,Guangzhou,China
+1989-08-21,Malaysia,0,3,-3,0,0,loss,1989 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1989-08-23,Indonesia,1,5,-4,0,0,loss,1989 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1989-08-25,Brunei,0,2,-2,0,0,loss,1989 southeast asian games ,group stage,southeast asian games,Kuala Lumpur,Malaysia
+1991-05-06,Brunei,2,1,1,0,0,win,1991 philippines international cup,,philippines international cup,Iloilo City,Philippines
+1991-05-20,Pakistan,0,1,-1,0,0,loss,friendly,,friendly,Dubai,United Arab Emirates
+1991-11-26,Vietnam,2,2,0,0,0,draw,1991 southeast asian games ,group stage,southeast asian games,Manila,Philippines
+1991-11-28,Malaysia,1,0,1,0,0,win,1991 southeast asian games ,group stage,southeast asian games,Manila,Philippines
+1991-11-30,Indonesia,1,2,-1,0,0,loss,1991 southeast asian games ,group stage,southeast asian games,Manila,Philippines
+1991-12-02,Thailand,2,6,-4,0,0,loss,1991 southeast asian games ,semi-final,southeast asian games,Manila,Philippines
+1991-12-04,Singapore,0,2,-2,0,0,loss,1991 southeast asian games ,3rd place play-off,southeast asian games,Manila,Philippines
+1993-05-15,Brunei,1,0,1,0,0,win,1993 philippines international cup,,philippines international cup,Bacolod,Philippines
+1993-05-17,Brunei,0,1,-1,0,0,loss,1993 philippines international cup ,3rd place play-off,philippines international cup,Bacolod,Philippines
+1993-06-09,Singapore,0,7,-7,0,0,loss,1993 southeast asian games ,group stage,southeast asian games,,Singapore
+1993-06-11,Vietnam,0,1,-1,0,0,loss,1993 southeast asian games ,group stage,southeast asian games,,Singapore
+1993-06-15,Indonesia,1,3,-2,0,0,loss,1993 southeast asian games ,group stage,southeast asian games,,Singapore
+1995-12-04,Myanmar,1,4,-3,0,0,loss,1995 southeast asian games ,group stage,southeast asian games,Lamphun,Thailand
+1995-12-06,Laos,0,1,-1,0,0,loss,1995 southeast asian games ,group stage,southeast asian games,Lamphun,Thailand
+1995-12-08,Singapore,0,4,-4,0,0,loss,1995 southeast asian games ,group stage,southeast asian games,Chiang Mai,Thailand
+1995-12-12,Brunei,1,0,1,0,0,win,1995 southeast asian games ,group stage,southeast asian games,Lamphun,Thailand
+1996-01-30,Hong Kong,0,8,-8,0,0,loss,1996 afc asian cup qualification,,afc asian cup qualification,,Hong Kong
+1996-02-01,China,0,7,-7,0,0,loss,1996 afc asian cup qualification,,afc asian cup qualification,,Hong Kong
+1996-02-04,Macau,1,5,-4,0,0,loss,1996 afc asian cup qualification,,afc asian cup qualification,,Hong Kong
+1996-09-02,Thailand,0,5,-5,0,0,loss,1996 aff championship ,group stage,aff championship,,Singapore
+1996-09-04,Malaysia,0,7,-7,0,0,loss,1996 aff championship ,group stage,aff championship,,Singapore
+1996-09-06,Singapore,0,3,-3,0,0,loss,1996 aff championship ,group stage,aff championship,,Singapore
+1996-09-08,Brunei,0,1,-1,0,0,loss,1996 aff championship ,group stage,aff championship,,Singapore
+1996-09-21,India,0,2,-2,0,0,loss,1998 fifa world cup qualification,,fifa world cup qualification,Doha,Qatar
+1996-09-23,Qatar,0,5,-5,0,0,loss,1998 fifa world cup qualification,,fifa world cup qualification,Doha,Qatar
+1996-09-26,Sri Lanka,0,3,-3,0,0,loss,1998 fifa world cup qualification,,fifa world cup qualification,Doha,Qatar
+1997-02-23,Cambodia,1,1,0,3,4,loss,1997 president's cup ,3rd place play-off,president's cup,Iloilo City,Philippines
+1997-10-07,Malaysia,0,4,-4,0,0,loss,1997 southeast asian games ,group stage,southeast asian games,Jakarta,Indonesia
+1997-10-09,Laos,1,4,-3,0,0,loss,1997 southeast asian games ,group stage,southeast asian games,Jakarta,Indonesia
+1997-10-12,Indonesia,0,2,-2,0,0,loss,1997 southeast asian games ,group stage,southeast asian games,Jakarta,Indonesia
+1997-10-14,Vietnam,0,3,-3,0,0,loss,1997 southeast asian games ,group stage,southeast asian games,Jakarta,Indonesia
+1997-11-27,Estonia,0,1,-1,0,0,loss,friendly,,friendly,Manila,Philippines
+1998-03-24,Singapore,0,1,-1,0,0,loss,1998 aff championship qualification,,aff championship qualification,,Singapore
+1998-03-26,Cambodia,1,1,0,0,0,draw,1998 aff championship qualification,,aff championship qualification,,Singapore
+1998-08-27,Indonesia,0,3,-3,0,0,loss,1998 aff championship ,group stage,aff championship,Ho Chi Minh City,Vietnam
+1998-08-29,Thailand,1,3,-2,0,0,loss,1998 aff championship ,group stage,aff championship,Ho Chi Minh City,Vietnam
+1998-08-29,Myanmar,2,5,-3,0,0,loss,1998 aff championship ,group stage,aff championship,Ho Chi Minh City,Vietnam
+1999-07-30,Thailand,0,9,-9,0,0,loss,1999 southeast asian games ,group stage,southeast asian games,Bandar Seri Begawan,Brunei
+1999-08-01,Myanmar,1,4,-3,0,0,loss,1999 southeast asian games ,group stage,southeast asian games,Bandar Seri Begawan,Brunei
+1999-08-03,Laos,2,3,-1,0,0,loss,1999 southeast asian games ,group stage,southeast asian games,Bandar Seri Begawan,Brunei
+1999-08-08,Vietnam,0,2,-2,0,0,loss,1999 southeast asian games ,group stage,southeast asian games,Bandar Seri Begawan,Brunei
+2000-01-23,China,0,8,-8,0,0,loss,2000 afc asian cup qualification,,afc asian cup qualification,Ho Chi Minh City,Vietnam
+2000-01-26,Vietnam,0,3,-3,0,0,loss,2000 afc asian cup qualification,,afc asian cup qualification,Ho Chi Minh City,Vietnam
+2000-01-29,Guam,2,0,2,0,0,win,2000 afc asian cup qualification,,afc asian cup qualification,Ho Chi Minh City,Vietnam
+2000-11-06,Indonesia,0,3,-3,0,0,loss,2000 tiger cup ,group stage,tiger cup,Chiang Mai,Thailand
+2000-11-08,Myanmar,0,3,-3,0,0,loss,2000 tiger cup ,group stage,tiger cup,Chiang Mai,Thailand
+2000-11-12,Thailand,0,2,-2,0,0,loss,2000 tiger cup ,group stage,tiger cup,Chiang Mai,Thailand
+2001-04-25,Lebanon,0,3,-3,0,0,loss,friendly,,friendly,Beirut,Lebanon
+2001-04-30,Syria,0,12,-12,0,0,loss,2002 fifa world cup qualification,,fifa world cup qualification,Aleppo,Syria
+2001-05-04,Syria,1,5,-4,0,0,loss,2002 fifa world cup qualification,,fifa world cup qualification,Aleppo,Syria
+2001-05-07,Oman,0,7,-7,0,0,loss,2002 fifa world cup qualification,,fifa world cup qualification,Muscat,Oman
+2001-05-11,Oman,0,2,-2,0,0,loss,2002 fifa world cup qualification,,fifa world cup qualification,Muscat,Oman
+2001-05-19,Laos,0,2,-2,0,0,loss,2002 fifa world cup qualification,,fifa world cup qualification,Vientiane,Laos
+2001-05-26,Laos,1,1,0,0,0,draw,2002 fifa world cup qualification,,fifa world cup qualification,Pasig,Philippines
+2002-12-11,Singapore,0,2,-2,0,0,loss,friendly,,friendly,,Singapore
+2002-12-17,Myanmar,1,6,-5,0,0,loss,2002 tiger cup ,group stage,tiger cup,Jakarta,Indonesia
+2002-12-19,Vietnam,1,4,-3,0,0,loss,2002 tiger cup ,group stage,tiger cup,Jakarta,Indonesia
+2002-12-21,Cambodia,0,1,-1,0,0,loss,2002 tiger cup ,group stage,tiger cup,Jakarta,Indonesia
+2002-12-23,Indonesia,1,13,-12,0,0,loss,2002 tiger cup ,group stage,tiger cup,Jakarta,Indonesia
+2004-12-08,Myanmar,0,1,-1,0,0,loss,2002 tiger cup ,group stage,tiger cup,Kuala Lumpur,Malaysia
+2004-12-10,Malaysia,1,4,-3,0,0,loss,2002 tiger cup ,group stage,tiger cup,Kuala Lumpur,Malaysia
+2004-12-14,East Timor,2,1,1,0,0,win,2002 tiger cup ,group stage,tiger cup,Kuala Lumpur,Malaysia
+2004-12-16,Thailand,1,3,-2,0,0,loss,2002 tiger cup ,group stage,tiger cup,Kuala Lumpur,Malaysia
+2006-03-26,Thailand,0,5,-5,0,0,loss,friendly,,friendly,Chonburi,Thailand
+2006-04-01,Chinese Taipei,0,1,-1,0,0,loss,2006 afc challenge cup ,group stage,afc challenge cup,Chittagong,Bangladesh
+2006-04-05,Afghanistan,1,1,0,0,0,draw,2006 afc challenge cup ,group stage,afc challenge cup,Chittagong,Bangladesh
+2006-11-12,Laos,1,2,-1,0,0,loss,2007 aff championship qualification,,aff championship qualification,Bacolod,Philippines
+2006-11-14,East Timor,7,0,7,0,0,win,2007 aff championship qualification,,aff championship qualification,Bacolod,Philippines
+2006-11-18,Cambodia,1,0,1,0,0,win,2007 aff championship qualification,,aff championship qualification,Bacolod,Philippines
+2006-11-20,Brunei,4,1,3,0,0,win,2007 aff championship qualification,,aff championship qualification,Bacolod,Philippines
+2007-01-07,Singapore,1,4,-3,0,0,loss,friendly,,friendly,,Singapore
+2007-01-12,Malaysia,0,4,-4,0,0,loss,2007 aff championship ,group stage,aff championship,Bangkok,Thailand
+2007-01-12,Thailand,0,4,-4,0,0,loss,2007 aff championship ,group stage,aff championship,Bangkok,Thailand
+2007-01-12,Myanmar,0,0,0,0,0,draw,2007 aff championship ,group stage,aff championship,Bangkok,Thailand
+2008-05-13,Brunei,1,0,1,0,0,win,2008 afc challenge cup qualification,,afc challenge cup qualification,Iloilo City,Philippines
+2008-05-15,Tajikistan,0,0,0,0,0,draw,2008 afc challenge cup qualification,,afc challenge cup qualification,Iloilo City,Philippines
+2008-05-17,Bhutan,3,0,3,0,0,win,2008 afc challenge cup qualification,,afc challenge cup qualification,Barotac Nuevo,Philippines
+2008-10-17,East Timor,1,0,1,0,0,win,2008 aff championship qualification,,aff championship qualification,Phnom Penh,Cambodia
+2008-10-19,Brunei,1,1,0,0,0,draw,2008 aff championship qualification,,aff championship qualification,Phnom Penh,Cambodia
+2008-10-21,Laos,1,2,-1,0,0,loss,2008 aff championship qualification,,aff championship qualification,Phnom Penh,Cambodia
+2008-10-23,Cambodia,3,2,1,0,0,win,2008 aff championship qualification,,aff championship qualification,Phnom Penh,Cambodia
+2009-04-14,Bhutan,1,0,1,0,0,win,2010 afc challenge cup qualification,,afc challenge cup qualification,Malé,Maldives
+2009-04-16,Maldives,2,3,-1,0,0,loss,2010 afc challenge cup qualification,,afc challenge cup qualification,Malé,Maldives
+2009-04-18,Turkmenistan,0,5,-5,0,0,loss,2010 afc challenge cup qualification,,afc challenge cup qualification,Malé,Maldives
+2010-01-16,Chinese Taipei,0,0,0,0,0,draw,friendly,,friendly,Kaohsiung,Taiwan
+2010-10-10,Chinese Taipei,1,1,0,0,0,draw,2010 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2010-10-12,Macau,5,0,5,0,0,win,2010 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2010-10-22,East Timor,5,0,5,0,0,win,2010 aff championship qualification,,aff championship qualification,Vientiane,Laos
+2010-10-24,Laos,2,2,0,0,0,draw,2010 aff championship qualification,,aff championship qualification,Vientiane,Laos
+2010-10-26,Cambodia,0,0,0,0,0,draw,2010 aff championship qualification,,aff championship qualification,Vientiane,Laos
+2010-12-02,Singapore,1,1,0,0,0,draw,2010 aff championship ,group stage,aff championship,Hanoi,Vietnam
+2010-12-05,Vietnam,2,0,2,0,0,win,2010 aff championship ,group stage,aff championship,Hanoi,Vietnam
+2010-12-08,Myanmar,0,0,0,0,0,draw,2010 aff championship ,group stage,aff championship,Nam Định,Vietnam
+2010-12-16,Indonesia,0,1,-1,0,0,loss,2010 aff championship ,semi-final,aff championship,Jakarta,Indonesia
+2010-12-19,Indonesia,0,1,-1,0,0,loss,2010 aff championship ,semi-final,aff championship,Jakarta,Indonesia
+2011-02-09,Mongolia,2,0,2,0,0,win,2012 afc challenge cup qualification,,afc challenge cup qualification,Bacolod,Philippines
+2011-03-15,Mongolia,1,2,-1,0,0,loss,2012 afc challenge cup qualification,,afc challenge cup qualification,Ulan Baatar,Mongolia
+2011-03-21,Myanmar,1,1,0,0,0,draw,2012 afc challenge cup qualification,,afc challenge cup qualification,Yangon,Myanmar
+2011-03-23,Palestine,0,0,0,0,0,draw,2012 afc challenge cup qualification,,afc challenge cup qualification,Yangon,Myanmar
+2011-03-25,Bangladesh,3,0,3,0,0,win,2012 afc challenge cup qualification,,afc challenge cup qualification,Yangon,Myanmar
+2011-06-29,Sri Lanka,1,1,0,0,0,draw,2014 fifa world cup qualification,,fifa world cup qualification,Colombo,Sri Lanka
+2011-07-03,Sri Lanka,4,0,4,0,0,win,2014 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2011-07-23,Kuwait,0,3,-3,0,0,loss,2014 fifa world cup qualification,,fifa world cup qualification,Hawally,Kuwait
+2011-07-28,Kuwait,1,2,-1,0,0,loss,2014 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2011-09-30,Hong Kong,3,3,0,0,0,draw,2011 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2011-10-02,Chinese Taipei,0,0,0,0,0,draw,2011 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2011-10-04,Macau,2,0,2,0,0,win,2011 long teng cup,,long teng cup,Kaohsiung,Taiwan
+2011-10-07,Singapore,0,2,-2,0,0,loss,friendly,,friendly,,Singapore
+2011-10-11,Nepal,4,0,4,0,0,win,friendly,,friendly,Manila,Philippines
+2012-02-29,Malaysia,1,1,0,0,0,draw,friendly,,friendly,Manila,Philippines
+2012-03-09,North Korea,0,2,-2,0,0,loss,2012 afc challenge cup ,group stage,afc challenge cup,Kathmandu,Nepal
+2012-03-11,India,2,0,2,0,0,win,2012 afc challenge cup ,group stage,afc challenge cup,Kathmandu,Nepal
+2012-03-13,Tajikistan,2,1,1,0,0,win,2012 afc challenge cup ,group stage,afc challenge cup,Kathmandu,Nepal
+2012-03-16,Turkmenistan,1,2,-1,0,0,loss,2012 afc challenge cup ,semi-final,afc challenge cup,Kathmandu,Nepal
+2012-03-19,Palestine,4,3,1,0,0,win,2012 afc challenge cup ,3rd place play-off,afc challenge cup,Kathmandu,Nepal
+2012-06-01,Malaysia,0,0,0,0,0,draw,friendly,,friendly,Shah Alam,Malaysia
+2012-06-05,Indonesia,2,2,0,0,0,draw,friendly,,friendly,Manila,Philippines
+2012-06-12,Guam,3,0,3,0,0,win,friendly,,friendly,Bacolod,Philippines
+2012-09-07,Singapore,2,0,2,0,0,win,friendly,,friendly,,Singapore
+2012-09-25,Guam,1,0,1,0,0,win,2012 philippine peace cup,,philippine peace cup,Manila,Philippines
+2012-09-27,Macau,5,0,5,0,0,win,2012 philippine peace cup,,philippine peace cup,Manila,Philippines
+2012-09-29,Chinese Taipei,3,1,2,0,0,win,2012 philippine peace cup,,philippine peace cup,Manila,Philippines
+2012-10-12,Bahrain,0,0,0,0,0,draw,friendly,,friendly,Manama,Bahrain
+2012-10-16,Kuwait,1,2,-1,0,0,loss,friendly,,friendly,Kuwait City,Kuwait
+2012-11-15,Singapore,1,0,1,0,0,win,friendly,,friendly,Cebu,Philippines
+2012-11-24,Thailand,1,2,-1,0,0,loss,2012 aff championship ,group stage,aff championship,Bangkok,Thailand
+2012-11-27,Vietnam,1,0,1,0,0,win,2012 aff championship ,group stage,aff championship,Bangkok,Thailand
+2012-11-30,Myanmar,2,0,2,0,0,win,2012 aff championship ,group stage,aff championship,Bangkok,Thailand
+2012-12-08,Singapore,0,0,0,0,0,draw,2012 aff championship ,semi-final,aff championship,Manila,Philippines
+2012-12-12,Singapore,0,1,-1,0,0,loss,2012 aff championship ,semi-final,aff championship,,Singapore
+2013-02-06,Myanmar,1,0,1,0,0,win,friendly,,friendly,Yangon,Myanmar
+2013-03-24,Cambodia,8,0,8,0,0,win,2014 afc challenge cup qualification,,afc challenge cup qualification,Manila,Philippines
+2013-03-26,Turkmenistan,1,0,1,0,0,win,2014 afc challenge cup qualification,,afc challenge cup qualification,Manila,Philippines
+2013-06-04,Hong Kong,1,0,1,0,0,win,friendly,,friendly,,Hong Kong
+2013-08-14,Indonesia,0,2,-2,0,0,loss,friendly,,friendly,Surakarta,Indonesia
+2013-10-11,Chinese Taipei,1,2,-1,0,0,loss,2013 philippine peace cup,,philippine peace cup,Bacolod,Philippines
+2013-10-15,Pakistan,3,1,2,0,0,win,2013 philippine peace cup,,philippine peace cup,Bacolod,Philippines
+2013-11-09,United Arab Emirates,0,4,-4,0,0,loss,friendly,,friendly,Abu Dhabi,United Arab Emirates
+2013-11-15,India,1,1,0,0,0,draw,friendly,,friendly,Siliguri,India
+2014-03-01,Malaysia,0,0,0,0,0,draw,friendly,,friendly,Selayang,Malaysia
+2014-03-05,Azerbaijan,0,1,-1,0,0,loss,friendly,,friendly,Dubai,United Arab Emirates
+2014-04-11,Nepal,3,0,3,0,0,win,friendly,,friendly,Doha,Qatar
+2014-04-27,Malaysia,0,0,0,0,0,draw,friendly,,friendly,Cebu,Philippines
+2014-05-20,Afghanistan,0,0,0,0,0,draw,2014 afc challenge cup ,group stage,afc challenge cup,Addu City,Maldives
+2014-05-22,Laos,2,0,2,0,0,win,2014 afc challenge cup ,group stage,afc challenge cup,Addu City,Maldives
+2014-05-24,Turkmenistan,2,0,2,0,0,win,2014 afc challenge cup ,group stage,afc challenge cup,Malé,Maldives
+2014-05-27,Maldives,3,2,1,0,0,win,2014 afc challenge cup ,semi-final,afc challenge cup,Malé,Maldives
+2014-05-30,Palestine,0,1,-1,0,0,loss,2014 ac challenge cup ,final,ac challenge cup,Malé,Maldives
+2014-09-03,Chinese Taipei,5,1,4,0,0,win,2014 philippine peace cup ,semi-final,philippine peace cup,Manila,Philippines
+2014-09-06,Myanmar,2,3,-1,0,0,loss,2014 philippine peace cup ,final,philippine peace cup,Manila,Philippines
+2014-10-12,Papua New Guinea,5,0,5,0,0,win,friendly,,friendly,Manila,Philippines
+2014-10-31,Nepal,3,0,3,0,0,win,friendly,,friendly,Doha,Qatar
+2014-11-09,Thailand,0,3,-3,0,0,loss,friendly,,friendly,Nakhon Ratchasima,Thailand
+2014-11-14,Cambodia,3,0,3,0,0,win,friendly,,friendly,Manila,Philippines
+2014-11-22,Laos,4,1,3,0,0,win,2014 aff championship ,group stage,aff championship,Hanoi,Vietnam
+2014-11-25,Indonesia,4,0,4,0,0,win,2014 aff championship ,group stage,aff championship,Hanoi,Vietnam
+2014-11-28,Vietnam,1,3,-2,0,0,loss,2014 aff championship ,group stage,aff championship,Hanoi,Vietnam
+2014-12-06,Thailand,0,0,0,0,0,draw,2014 aff championship ,semi-final,aff championship,Manila,Philippines
+2014-12-10,Thailand,0,3,-3,0,0,loss,2014 aff championship ,semi-final,aff championship,Bangkok,Thailand
+2015-03-30,Bahrain,1,2,-1,0,0,loss,friendly,,friendly,Riffa,Bahrain
+2015-06-11,Bahrain,2,1,1,0,0,win,2018 fifa world cup qualification,,fifa world cup qualification,Bocaue,Philippines
+2015-06-16,Yemen,2,0,2,0,0,win,2018 fifa world cup qualification,,fifa world cup qualification,Doha,Qatar
+2015-09-03,Maldives,2,0,2,0,0,win,friendly,,friendly,Manila,Philippines
+2015-09-08,Uzbekistan,1,5,-4,0,0,loss,2018 fifa world cup qualification,,fifa world cup qualification,Bocaue,Philippines
+2015-10-08,North Korea,0,0,0,0,0,draw,2018 fifa world cup qualification,,fifa world cup qualification,Pyongyang,North Korea
+2015-10-13,Bahrain,0,2,-2,0,0,loss,2018 fifa world cup qualification,,fifa world cup qualification,Riffa,Bahrain
+2015-11-12,Yemen,0,1,-1,0,0,loss,2018 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2016-03-24,Uzbekistan,0,1,-1,0,0,loss,2018 fifa world cup qualification,,fifa world cup qualification,Tashkent,Uzbekistan
+2016-03-29,North Korea,3,2,1,0,0,win,2018 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2016-09-06,Kyrgyzstan,2,1,1,0,0,win,friendly,,friendly,Bishkek,Kyrgyzstan
+2016-10-07,Bahrain,1,3,-2,0,0,loss,friendly,,friendly,Manila,Philippines
+2016-10-10,North Korea,1,3,-2,0,0,loss,friendly,,friendly,Manila,Philippines
+2016-11-09,Kyrgyzstan,1,0,1,0,0,win,friendly,,friendly,Manila,Philippines
+2016-11-19,Singapore,0,0,0,0,0,draw,2016 aff championship ,group stage,aff championship,Bocaue,Philippines
+2016-11-22,Indonesia,2,2,0,0,0,draw,2016 aff championship ,group stage,aff championship,Bocaue,Philippines
+2016-11-25,Thailand,0,1,-1,0,0,loss,2016 aff championship ,group stage,aff championship,Bocaue,Philippines
+2017-03-22,Malaysia,0,0,0,0,0,draw,friendly,,friendly,Manila,Philippines
+2017-03-28,Nepal,4,1,3,0,0,win,2019 afc asian cup qualification,,afc asian cup qualification,Manila,Philippines
+2017-06-07,China,1,8,-7,0,0,loss,friendly,,friendly,Guangzhou,China
+2017-06-13,Tajikistan,4,3,1,0,0,win,2019 afc asian cup qualification,,afc asian cup qualification,Dushanbe,Tajikistan
+2017-09-05,Yemen,2,2,0,0,0,draw,2019 afc asian cup qualification,,afc asian cup qualification,Bacolod,Philippines
+2017-10-10,Yemen,1,1,0,0,0,draw,2019 afc asian cup qualification,,afc asian cup qualification,Al Wakrah,Qatar
+2017-11-14,Nepal,0,0,0,0,0,draw,2019 afc asian cup qualification,,afc asian cup qualification,Lalitpur,Nepal
+2017-12-01,Laos,3,1,2,0,0,win,2017 ctfa international tournament,,ctfa international tournament,Taipei,Taiwan
+2017-12-03,Chinese Taipei,0,3,-3,0,0,loss,2017 ctfa international tournament,,ctfa international tournament,Taipei,Taiwan
+2017-12-05,East Timor,0,1,-1,0,0,loss,2017 ctfa international tournament,,ctfa international tournament,Taipei,Taiwan
+2018-03-22,Fiji,3,2,1,0,0,win,friendly,,friendly,Manila,Philippines
+2018-03-27,Tajikistan,2,1,1,0,0,win,2019 afc asian cup qualification,,afc asian cup qualification,Manila,Philippines
+2018-09-06,Bahrain,1,1,0,0,0,draw,friendly,,friendly,Riffa,Bahrain
+2018-09-09,Al-Hidd Club,2,3,-1,0,0,loss,friendly,,friendly,Al-Hidd,Bahrain
+2018-10-03,Laos,3,1,2,0,0,win,2018 bangabandhu cup,,bangabandhu cup,Sylhet,Bangladesh
+2018-10-05,Bangladesh,1,0,1,0,0,win,2018 bangabandhu cup,,bangabandhu cup,Sylhet,Bangladesh
+2018-10-09,Tajikistan,0,2,-2,0,0,loss,2018 bangabandhu cup ,semi-final,bangabandhu cup,Cox's Bazar,Bangladesh
+2018-10-13,Oman,1,1,0,0,0,draw,friendly,,friendly,Al Rayyan,Qatar
+2018-11-13,Singapore,1,0,1,0,0,win,2018 aff championship ,group stage,aff championship,Bacolod,Philippines
+2018-11-17,East Timor,3,2,1,0,0,win,2018 aff championship ,group stage,aff championship,Kuala Lumpur,Malaysia
+2018-11-21,Thailand,1,1,0,0,0,draw,2018 aff championship ,group stage,aff championship,Bacolod,Philippines
+2018-11-25,Indonesia,0,0,0,0,0,draw,2018 aff championship ,group stage,aff championship,Jakarta,Indonesia
+2018-12-02,Vietnam,1,2,-1,0,0,loss,2018 aff championship ,semi-final,aff championship,Bacolod,Philippines
+2018-12-06,Vietnam,1,2,-1,0,0,loss,2018 aff championship ,semi-final,aff championship,Hanoi,Vietnam
+2019-01-07,South Korea,0,1,-1,0,0,loss,2019 afc asian cup ,group stage,afc asian cup,Dubai,United Arab Emirates
+2019-01-11,China,0,3,-3,0,0,loss,2019 afc asian cup ,group stage,afc asian cup,Abu Dhabi,United Arab Emirates
+2019-01-16,Kyrgyzstan,1,3,-2,0,0,loss,2019 afc asian cup ,group stage,afc asian cup,Dubai,United Arab Emirates
+2019-06-07,China,0,2,-2,0,0,loss,friendly,,friendly,Guangzhou,China
+2019-09-05,Syria,2,5,-3,0,0,loss,2022 fifa world cup qualification,,fifa world cup qualification,Bacolod,Philippines
+2019-09-10,Guam,4,1,3,0,0,win,2022 fifa world cup qualification,,fifa world cup qualification,Dededo,Guam
+2019-10-15,China,0,0,0,0,0,draw,2022 fifa world cup qualification,,fifa world cup qualification,Bacolod,Philippines
+2019-11-14,Maldives,2,1,1,0,0,win,2022 fifa world cup qualification,,fifa world cup qualification,Malé,Maldives
+2019-11-19,Syria,0,1,-1,0,0,loss,2022 fifa world cup qualification,,fifa world cup qualification,Dubai,United Arab Emirates
+2021-06-07,China,0,2,-2,0,0,loss,2022 fifa world cup qualification,,fifa world cup qualification,Sharjah,United Arab Emirates
+2021-06-11,Guam,3,0,3,0,0,win,2022 fifa world cup qualification,,fifa world cup qualification,Sharjah,United Arab Emirates
+2021-06-15,Maldives,1,1,0,0,0,draw,2022 fifa world cup qualification,,fifa world cup qualification,Sharjah,United Arab Emirates
+2021-12-08,Singapore,1,2,-1,0,0,loss,2020 aff championship ,group stage,aff championship,Kallang,Singapore
+2021-12-11,East Timor,7,0,7,0,0,win,2020 aff championship ,group stage,aff championship,Kallang,Singapore
+2021-12-14,Thailand,1,2,-1,0,0,loss,2020 aff championship ,group stage,aff championship,Kallang,Singapore
+2021-12-18,Myanmar,3,2,1,0,0,win,2020 aff championship ,group stage,aff championship,Bishan,Singapore
+2022-03-23,Malaysia,0,2,-2,0,0,loss,2022 fas tri-nations series,,fas tri-nations series,Kallang,Singapore
+2022-03-29,Singapore,0,2,-2,0,0,loss,2022 fas tri-nations series,,fas tri-nations series,Kallang,Singapore
+2022-06-03,PFL All-Stars,0,1,-1,0,0,loss,unofficial friendly,,unofficial friendly,Biñan,Philippines
+2022-06-08,Yemen,0,0,0,0,0,draw,2023 afc asian cup qualification,,afc asian cup qualification,Ulaanbaatar,Mongolia
+2022-06-11,Mongolia,1,0,1,0,0,win,2023 afc asian cup qualification,,afc asian cup qualification,Ulaanbaatar,Mongolia
+2022-06-14,Palestine,0,4,-4,0,0,loss,2023 afc asian cup qualification,,afc asian cup qualification,Ulaanbaatar,Mongolia
+2022-07-16,East Timor,4,1,3,0,0,win,friendly,,friendly,Bali,Indonesia
+2022-12-14,Vietnam,0,1,-1,0,0,loss,friendly,,friendly,Hanoi,Vietnam
+2022-12-20,Cambodia,2,3,-1,0,0,loss,2022 aff championship ,group stage,aff championship,Phnom Penh,Cambodia
+2022-12-23,Brunei,5,1,4,0,0,win,2022 aff championship ,group stage,aff championship,Manila,Philippines
+2022-12-26,Thailand,0,4,-4,0,0,loss,2022 aff championship ,group stage,aff championship,Pathum Thani,Thailand
+2023-01-02,Indonesia,1,2,-1,0,0,loss,2022 aff championship ,group stage,aff championship,Manila,Philippines
+2023-03-24,Kuwait,0,2,-2,0,0,loss,friendly,,friendly,Kuwait City,Kuwait
+2023-03-28,Jordan,0,4,-4,0,0,loss,friendly,,friendly,Doha,Qatar
+2023-06-15,Nepal,1,0,1,0,0,win,friendly,,friendly,Manila,Philippines
+2023-06-19,Chinese Taipei,2,3,-1,0,0,loss,friendly,,friendly,Manila,Philippines
+2023-09-08,Chinese Taipei,1,1,0,0,0,draw,friendly,,friendly,Kaohsiung,Taiwan
+2023-09-12,Afghanistan,2,1,1,0,0,win,friendly,,friendly,Manila,Philippines
+2023-10-17,Bahrain,0,1,-1,0,0,loss,friendly,,friendly,Arad,Bahrain
+2023-11-16,Vietnam,0,2,-2,0,0,loss,2026 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2023-11-21,Indonesia,1,1,0,0,0,draw,2026 fifa world cup qualification,,fifa world cup qualification,Manila,Philippines
+2024-03-21,Iraq,0,1,-1,0,0,loss,2026 world cup qualification,,fifa world cup qualification,Basra,Iraq
+2024-03-26,Iraq,0,5,-5,0,0,loss,2026 world cup qualification,,fifa world cup qualification,Manila,Philippines
+2024-06-06,Vietnam,2,3,-1,0,0,loss,2026 world cup qualification,,fifa world cup qualification,Hanoi,Vietnam
+2024-06-11,Indonesia,0,2,-2,0,0,loss,2026 world cup qualification,,fifa world cup qualification,Jakarta,Indonesia
